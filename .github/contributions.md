@@ -104,3 +104,4 @@
 - [2025-03-21T18:28:23] refactor: clean up unused variables and imports
 - [2025-03-24T22:19:02] perf: improve execution speed in hot paths
 - [2025-03-27T22:36:20] test: expand test coverage for utility modules
+- [2025-03-28T10:21:01] chore: update configuration and build scripts
