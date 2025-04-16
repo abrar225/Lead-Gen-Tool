@@ -89,13 +89,4 @@ python step2_extractor.py "Dentists in Chicago" --headless
 ## ⚠️ Disclaimer
 
 This tool is for **educational and personal use only**. Automated scraping of Google Maps may violate Google's Terms of Service. Use responsibly and at your own risk.
-- [2025-06-30T20:12:34] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-11T09:59:43] docs(readme): improve documentation notes and usage guidelines
-- [2025-09-26T12:52:40] style: enhance README formatting and badge definitions
-- [2025-10-25T21:18:07] docs(readme): improve documentation notes and usage guidelines
-- [2025-11-22T17:32:13] docs(readme): improve documentation notes and usage guidelines
-- [2025-12-01T14:52:37] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-01T11:20:27] style: enhance README formatting and badge definitions
-- [2026-04-22T09:33:16] style: enhance README formatting and badge definitions
-- [2026-05-22T17:11:13] style: enhance README formatting and badge definitions
-- [2026-08-05T15:54:55] style: enhance README formatting and badge definitions
+<!-- [2025-04-16T11:56:14] style: improve formatting and badge alignment -->
