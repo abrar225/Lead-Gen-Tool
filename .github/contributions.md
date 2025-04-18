@@ -107,3 +107,4 @@
 - [2025-03-28T10:21:01] chore: update configuration and build scripts
 - [2025-04-07T13:10:00] perf: improve execution speed in hot paths
 - [2025-04-15T15:37:33] chore: update configuration and build scripts
+- [2025-04-18T22:18:48] refactor: clean up unused variables and imports
