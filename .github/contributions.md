@@ -109,3 +109,4 @@
 - [2025-04-15T15:37:33] chore: update configuration and build scripts
 - [2025-04-18T22:18:48] refactor: clean up unused variables and imports
 - [2025-04-19T20:12:34] chore: update dependencies and environment config
+- [2025-04-24T11:12:42] docs: clarify API usage examples in documentation
