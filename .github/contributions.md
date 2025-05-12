@@ -114,3 +114,4 @@
 - [2025-05-08T12:46:15] perf: improve execution speed in hot paths
 - [2025-05-09T13:20:54] perf: improve execution speed in hot paths
 - [2025-05-09T14:46:42] chore: update configuration and build scripts
+- [2025-05-12T12:01:43] style: improve code formatting and comments
