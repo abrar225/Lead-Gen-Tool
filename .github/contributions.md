@@ -117,3 +117,4 @@
 - [2025-05-12T12:01:43] style: improve code formatting and comments
 - [2025-05-24T15:25:57] style: improve code formatting and comments
 - [2025-05-31T09:51:20] chore: update configuration and build scripts
+- [2025-06-04T14:50:55] docs: clarify API usage examples in documentation
