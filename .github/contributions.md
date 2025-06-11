@@ -119,3 +119,4 @@
 - [2025-05-31T09:51:20] chore: update configuration and build scripts
 - [2025-06-04T14:50:55] docs: clarify API usage examples in documentation
 - [2025-06-05T19:53:42] docs: update activity log and documentation
+- [2025-06-11T16:31:49] test: expand test coverage for utility modules
