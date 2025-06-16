@@ -91,3 +91,4 @@ python step2_extractor.py "Dentists in Chicago" --headless
 This tool is for **educational and personal use only**. Automated scraping of Google Maps may violate Google's Terms of Service. Use responsibly and at your own risk.
 <!-- [2025-04-16T11:56:14] style: improve formatting and badge alignment -->
 <!-- [2025-06-14T18:12:00] docs(readme): update project documentation and overview -->
+<!-- [2025-06-16T18:57:53] style: improve formatting and badge alignment -->
