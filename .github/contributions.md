@@ -124,3 +124,4 @@
 - [2025-06-20T16:59:14] feat: add utility methods for state management
 - [2025-06-23T21:31:44] fix: correct minor typo in logging output
 - [2025-06-29T09:42:05] style: improve code formatting and comments
+- [2025-07-05T13:39:25] refactor: optimize internal helper functions
