@@ -3,3 +3,4 @@
 - [2025-09-04T20:03:18] perf: improve execution speed in hot paths
 - [2025-09-05T12:56:14] perf: improve execution speed in hot paths
 - [2025-09-05T13:29:27] fix: resolve edge cases in parameter validation
+- [2025-09-08T12:24:10] fix: correct minor typo in logging output
