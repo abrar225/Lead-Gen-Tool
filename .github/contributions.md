@@ -5,3 +5,4 @@
 - [2025-09-05T13:29:27] fix: resolve edge cases in parameter validation
 - [2025-09-08T12:24:10] fix: correct minor typo in logging output
 - [2025-09-09T14:24:01] docs: clarify API usage examples in documentation
+- [2025-09-10T10:33:12] docs: update activity log and documentation
