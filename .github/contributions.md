@@ -7,3 +7,4 @@
 - [2025-09-09T14:24:01] docs: clarify API usage examples in documentation
 - [2025-09-10T10:33:12] docs: update activity log and documentation
 - [2025-09-23T14:13:29] fix: correct minor typo in logging output
+- [2025-10-06T17:50:05] docs: update activity log and documentation
