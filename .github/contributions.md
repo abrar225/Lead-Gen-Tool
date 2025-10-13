@@ -10,3 +10,4 @@
 - [2025-10-06T17:50:05] docs: update activity log and documentation
 - [2025-10-09T17:22:09] fix: resolve edge cases in parameter validation
 - [2025-10-10T20:28:33] fix: resolve edge cases in parameter validation
+- [2025-10-13T11:07:58] chore: update configuration and build scripts
