@@ -13,3 +13,4 @@
 - [2025-10-13T11:07:58] chore: update configuration and build scripts
 - [2025-10-20T14:38:59] feat: add utility methods for state management
 - [2025-10-20T19:20:42] feat: add utility methods for state management
+- [2025-10-24T18:42:59] chore: update configuration and build scripts
