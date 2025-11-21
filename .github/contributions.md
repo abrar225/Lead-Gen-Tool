@@ -23,3 +23,4 @@
 - [2025-11-17T21:45:55] chore: update configuration and build scripts
 - [2025-11-19T18:53:45] fix: correct minor typo in logging output
 - [2025-11-20T17:05:13] test: expand test coverage for utility modules
+- [2025-11-21T15:35:26] docs: clarify API usage examples in documentation
