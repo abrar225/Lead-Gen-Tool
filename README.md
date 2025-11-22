@@ -93,3 +93,4 @@ This tool is for **educational and personal use only**. Automated scraping of Go
 - [2025-07-11T09:59:43] docs(readme): improve documentation notes and usage guidelines
 - [2025-09-26T12:52:40] style: enhance README formatting and badge definitions
 - [2025-10-25T21:18:07] docs(readme): improve documentation notes and usage guidelines
+- [2025-11-22T17:32:13] docs(readme): improve documentation notes and usage guidelines
