@@ -26,3 +26,4 @@
 - [2025-11-21T15:35:26] docs: clarify API usage examples in documentation
 - [2025-11-24T18:05:34] refactor: optimize internal helper functions
 - [2025-11-27T11:53:29] chore: update configuration and build scripts
+- [2025-11-28T19:33:11] chore: update configuration and build scripts
