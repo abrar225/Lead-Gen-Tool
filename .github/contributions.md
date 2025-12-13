@@ -31,3 +31,4 @@
 - [2025-12-08T17:34:00] refactor: optimize internal helper functions
 - [2025-12-09T22:58:58] style: improve code formatting and comments
 - [2025-12-09T22:00:05] refactor: clean up unused variables and imports
+- [2025-12-13T19:01:44] chore: update dependencies and environment config
