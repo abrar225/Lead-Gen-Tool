@@ -38,3 +38,4 @@
 - [2025-12-19T19:19:56] refactor: optimize internal helper functions
 - [2025-12-20T11:45:22] fix: correct minor typo in logging output
 - [2025-12-22T09:53:29] chore: update dependencies and environment config
+- [2025-12-29T14:16:35] docs: clarify API usage examples in documentation
