@@ -98,3 +98,4 @@ This tool is for **educational and personal use only**. Automated scraping of Go
 <!-- [2025-11-19T19:40:27] style: improve formatting and badge alignment -->
 <!-- [2025-12-09T09:21:22] docs(readme): update project documentation and overview -->
 <!-- [2026-01-07T09:08:28] docs(readme): update project documentation and overview -->
+<!-- [2026-01-08T21:34:54] docs(readme): update project documentation and overview -->
