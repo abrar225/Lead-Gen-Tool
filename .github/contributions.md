@@ -41,3 +41,4 @@
 - [2025-12-29T14:16:35] docs: clarify API usage examples in documentation
 - [2026-01-08T14:22:27] refactor: optimize internal helper functions
 - [2026-01-08T19:26:07] refactor: clean up unused variables and imports
+- [2026-01-13T19:16:52] fix: correct minor typo in logging output
