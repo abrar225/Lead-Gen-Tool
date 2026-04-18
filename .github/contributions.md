@@ -55,3 +55,4 @@
 - [2026-03-26T16:37:19] fix: resolve edge cases in parameter validation
 - [2026-04-03T17:52:39] chore: update configuration and build scripts
 - [2026-04-10T21:31:42] perf: improve execution speed in hot paths
+- [2026-04-18T11:17:01] chore: update dependencies and environment config
