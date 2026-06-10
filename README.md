@@ -103,3 +103,4 @@ This tool is for **educational and personal use only**. Automated scraping of Go
 <!-- [2026-03-01T18:58:41] style: improve formatting and badge alignment -->
 <!-- [2026-04-17T17:50:51] style: improve formatting and badge alignment -->
 <!-- [2026-04-18T16:24:46] style: improve formatting and badge alignment -->
+<!-- [2026-06-10T17:15:23] style: improve formatting and badge alignment -->
