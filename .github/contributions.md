@@ -78,3 +78,4 @@
 - [2026-07-01T22:06:37] fix: correct minor typo in logging output
 - [2026-07-03T12:43:11] test: expand test coverage for utility modules
 - [2026-07-03T17:22:38] test: expand test coverage for utility modules
+- [2026-07-03T19:39:02] feat: add utility methods for state management
