@@ -98,3 +98,4 @@ This tool is for **educational and personal use only**. Automated scraping of Go
 - [2026-03-01T11:20:27] style: enhance README formatting and badge definitions
 - [2026-04-22T09:33:16] style: enhance README formatting and badge definitions
 - [2026-05-22T17:11:13] style: enhance README formatting and badge definitions
+- [2026-08-05T15:54:55] style: enhance README formatting and badge definitions
